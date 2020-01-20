@@ -1,0 +1,107 @@
+.mid_div{
+    display: flex;
+   min-height: 50vh;
+}
+.mid_div1a{
+    width: 30%;
+    height: 50vh;
+}
+.mid_div1b{
+    width: 30%;
+    height: 50vh;
+}
+.mid_div1c{
+    width: 30%;
+    height: 30vh;
+}
+.mid_div2{
+    height: 50vh;
+    display: flex;
+}
+.mid_div2a{
+    width: 30%;
+    height: 50vh;
+}
+.mid_div2b{
+    width: 30%;
+    height: 50vh;
+}
+.mid_div2c{
+    width: 30%;
+    height: 50vh;
+}
+.footer_div{
+    display: flex;
+}
+.hr{
+    border: dotted;
+}
+.monkey{
+    height:50%;
+}
+.citty{
+    height:50%;
+}
+.simba{
+    height:50%;
+}
+.appo{
+    height:50%;
+}
+.koko{
+    height:50%;
+}
+.butter{
+    height:50%;
+}
+.body{
+    background-color: rgba(161,165,133,0.99);
+}
+.footer_div{
+    background-color: rgba(232,220,66,0.99);
+    display: flex;
+    min-height: 20%;
+}
+.jk{
+    margin-left: 80%;
+}
+.buttons{
+    background-color: rgba(232,212,72,0.99);
+    height: 100%;
+}
+.ll{
+    margin-left: 20%;
+}
+.logo{
+    background-color: rgba(221,222,226,0.99);
+}
+.rw{
+    color: rgba(237,45,56,0.99);
+    background-color: rgba(237,45,56,0.99);
+}
+.work{
+    margin-left: 80%;
+    background-color: red;
+}
+.river{
+    margin-left: 80%;
+    background-color: red;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
